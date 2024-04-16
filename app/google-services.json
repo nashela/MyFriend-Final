@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352195875190",
+    "project_id": "myfriends2-d20e9",
+    "storage_bucket": "myfriends2-d20e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352195875190:android:68a17ee9e10f6e6a34aa57",
+        "android_client_info": {
+          "package_name": "com.shelazh.myfriend2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuMELBDs7Hb6YQWep64HdsVfSwWRQ6Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

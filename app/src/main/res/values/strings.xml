@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MyFriend</string>
+
+    <string name="lets">Friend of Mine</string>
+    <string name="class_industri">Kelas industri not only develop hard skills and soft skills, but we also help develop life skills according to your competence</string>
+
+    <string name="welcome_quote">“Manage your friends, so you\'ll know them better”</string>
+    <string name="welcome_button">Lets Start</string>
+
+    <string name="fab">Button</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="school">School</string>
+    <string name="bio">Bio</string>
+    <string name="photo">Photo</string>
+
+    <string name="msg_error">Fill Blank Form</string>
+    <string name="error_permission">Permission not Granted</string>
+    <string name="label_login">LOGIN</string>
+    <string name="label_register">REGISTER</string>
+    <string name="label_use_your_account">use your registered account information</string>
+    <string name="label_phone_email">phone atau email</string>
+    <string name="label_password">password</string>
+    <string name="label_name">name</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_lets_start">Let\'s Start</string>
+    <string name="title_remove_friend">Remove Friend</string>
+    <string name="title_add_friend">Add Friend</string>
+    <string name="confirmation_add_friend">Are you sure want to add new friend?</string>
+    <string name="confirmation_remove_friend">Are you sure want to remove this friend?</string>
+    <string name="confirmation_update_friend">Are you sure want to update this friend?</string>
+    <string name="title_update_friend">Update Friend</string>
+
+    <string name="button_update">Update</string>
+    <string name="button_save">Save</string>
+
+    <string name="label_logging_in">Logging In...</string>
+    <string name="label_register_in">Register In...</string>
+    <string name="label_success">Success</string>
+
+    <string name="error_name_cannot_be_empty">Name cannot be empty</string>
+    <string name="error_photo_cannot_be_empty">Photo cannot be empty</string>
+    <string name="error_school_cannot_be_empty">School cannot be empty</string>
+    <string name="error_bio_cannot_be_empty">Bio cannot be empty</string>
+    <string name="error_phone_cannot_be_empty">Phone cannot be empty</string>
+    <string name="error_password_cannot_be_empty">Password cannot be empty</string>
+    <string name="title_insert_photo">Insert Photo</string>
+    <string name="edit_profile">Edit Profil\n</string>
+    <string name="profile">Profil</string>
+    <array name="label_image_source">
+        <item>Take from camera</item>
+        <item>Insert from gallery</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
